@@ -15,6 +15,6 @@ Unauthorized access is prohibited and monitored. - S0X
 
 ## Ubuntu quick test
 ```bash
-chmod +x install-ssh-banner-ubuntu.sh
-sudo ./install-ssh-banner-ubuntu.sh
+chmod +x install-ubuntu.sh
+sudo ./install-ubuntu.sh
 ```
